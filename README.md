@@ -1,7 +1,6 @@
 # Ryuth
 
 # Terms of Service
-Ryuth Terms of Service
 Last updated August 4, 2025
 
 Introduction:

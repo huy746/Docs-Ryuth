@@ -1,1 +1,4 @@
-# Docs-Ryuth
+# Ryuth
+Getting Started with Ryuth
+What to Ryuth?
+

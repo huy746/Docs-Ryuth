@@ -1,10 +1,10 @@
-# Ryuth
+# Ruyth
 
 # Terms of Service
 Last updated August 4, 2025
 
 Introduction:
-Ryuth ("us," "we," or "our") owns and operates the https://ryuthweb.blogspot.com website and Ryuth Discord Bot (the "Service"). Ryuth Discord Bot functions on Discord (the "Platform").
+Ruyth ("us," "we," or "our") owns and operates the https://ruythweb.blogspot.com website and Ryuth Discord Bot (the "Service"). Ryuth Discord Bot functions on Discord (the "Platform").
 By using our service you implicitly agree to our terms. You may stop using the service at any time if you no longer agree to these terms.
 Service Terms:
 We reserve the right to revoke access to the Service at any time for any reason.
